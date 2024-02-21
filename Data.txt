@@ -1,0 +1,2 @@
+playtime:1
+pathtaken:22
